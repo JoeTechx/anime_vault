@@ -1,9 +1,3 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# Explore The Diverse Realms of Anime Magic
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
-
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
-
+<img width="638" alt="anime" src="https://github.com/JoeTechx/joetechx/assets/81165398/dc2b6d59-dfb7-4807-8fb1-53da445097e0">
